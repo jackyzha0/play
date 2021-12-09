@@ -1,7 +1,7 @@
 :root {
   --bg: #121417;
   --text: #fcfdff;
-  --dimmed: #8b9099;
+  --highlight: #5196f055;
 }
 
 html,
@@ -20,6 +20,8 @@ p, span, a, code, pre, h1, h2, h3, h4 {
 
 a {
   color: inherit;
+  background-color: var(--highlight);
+  padding: 0 0.2em;
   text-decoration: none;
 }
 
@@ -74,3 +76,4 @@ a {
 .chat-inactive > .chat-text {
   opacity: 0.6;
 }
+
