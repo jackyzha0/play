@@ -12,7 +12,7 @@ body {
   color: var(--text);
 }
 
-p, span, a, code, pre, h1, h2, h3, h4 {
+p, span, a, code, pre, h1, h2, h3, h4, footer {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 1.25rem;
   line-height: 1.25em;
@@ -22,7 +22,18 @@ a {
   color: inherit;
   background-color: var(--highlight);
   padding: 0 0.2em;
+  border-radius: 3px;
   text-decoration: none;
+}
+
+a[href^="#"] {
+  background-color: transparent;
+}
+
+a[href^="#"] > sup {
+  background-color: var(--highlight);
+  padding: 0 0.2em;
+  border-radius: 3px;
 }
 
 * {
@@ -35,14 +46,14 @@ a {
   text-align: center;
 }
 
-.chat-container {
+.main-body {
   text-align: left;
   width: 50vw;
   margin: 10vh 25vw;
 }
 
 @media all and (max-width: 1200px) {
-  .chat-container {
+  .main-body {
     width: 90vw;
     margin: 10vh 5vw;
   }
@@ -50,6 +61,7 @@ a {
 
 .chat-item {
   display: flex;
+  position: relative;
   margin: 1em 0;
 }
 
@@ -68,8 +80,8 @@ a {
   background-color: var(--text);
 }
 
-.chat-text * {
-  flex: 0 0 100%;
+.chat-text, .chat-text * {
+  flex: 0 0 1;
   margin: 0 0 1em 0;
 }
 
@@ -77,3 +89,30 @@ a {
   opacity: 0.6;
 }
 
+hr {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    color: var(--text);
+    text-align: center;
+}
+
+hr:after {
+    content: "﹡﹡﹡";
+    display: inline-block;
+    position: relative;
+    margin: 2em 0;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: transparent;
+}
+
+.footer {
+  margin-top: 15vh;
+}
+
+.footer * {
+  font-size: 1.3rem;
+  border-radius: 0;
+  background-color: transparent;
+}

@@ -7,14 +7,17 @@ const CAMPFIRE = `
 `
 
 import Chat from '../components/chat'
+import Footer from '../components/footer'
+import convert from '../utils/convertMdToJson'
 
-export default function Page({ dialogue, active, includeHeader = true }) {
+export default function Page({ dialogue, active, includeHeader = true, includeFooter = true }) {
   return (
-    <div>
+    <div className="main-body">
       <div className="campfire">
         {includeHeader && <pre>{CAMPFIRE}</pre>}
-        <Chat dialogue={dialogue} active={active} />
       </div>
+      <Chat dialogue={convert(dialogue)} active={active} />
+      {includeFooter && <Footer />}
     </div>
   )
 }
