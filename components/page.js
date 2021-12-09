@@ -1,9 +1,9 @@
 const CAMPFIRE = `
-                    (       
-    .              ).  *     
- _.-\\=          o (:') o    
-(@))_))        o (/v~\\~ o   
-                o  o  o     
+                . (       
+                 . ).  *     
+    _.          * (') (     
+(@))_))          (()~\\(.     
+                (@))===))     
 `
 
 import Chat from '../components/chat'
