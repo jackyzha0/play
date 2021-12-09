@@ -1,9 +1,21 @@
+:root {
+  --bg: #121417;
+  --text: #fcfdff;
+  --dimmed: #8b9099;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+p, span, a, code, pre, h1, h2, h3, h4 {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 1.25rem;
+  line-height: 1.25em;
 }
 
 a {
@@ -13,4 +25,52 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.campfire {
+  margin: 4em 0;
+  width: 100%;
+  text-align: center;
+}
+
+.chat-container {
+  text-align: left;
+  width: 50vw;
+  margin: 10vh 25vw;
+}
+
+@media all and (max-width: 1200px) {
+  .chat-container {
+    width: 90vw;
+    margin: 10vh 5vw;
+  }
+}
+
+.chat-item {
+  display: flex;
+  margin: 1em 0;
+}
+
+.chat-speaker {
+  flex: 0 0 3em;
+}
+
+.chat-speaker > h2 {
+  margin: 0;
+  text-align: center;
+  width: 1.5em;
+}
+
+.chat-active > .chat-speaker > h2 {
+  color: var(--bg);
+  background-color: var(--text);
+}
+
+.chat-text * {
+  flex: 0 0 100%;
+  margin: 0 0 1em 0;
+}
+
+.chat-inactive > .chat-text {
+  opacity: 0.6;
 }
