@@ -33,4 +33,4 @@ A: I think so. And maybe it's only possible in an environment that is for whatev
 E: The longer we talk the more amazed I am that we have the word at all.
 A: Yeah - it's such a basic, foundational word, and at the same time is so hard to relate to anything formalized. That must be significant.
 E: Maybe a simpler definition is just "it's what kids do".
-A: That's interesting! That's probably its realistic origin,  why it feels like such a primary "vocabulary 101" word, *and* why it's so hard to pin down. It's a blanket term for the shit that kids get up to when they have unlimited free time, and so it ends up describing something elusive and sacred about being alive.l
+A: That's interesting! That's probably its realistic origin,  why it feels like such a primary "vocabulary 101" word, *and* why it's so hard to pin down. It's a blanket term for the shit that kids get up to when they have unlimited free time, and so it ends up describing something elusive and sacred about being alive.

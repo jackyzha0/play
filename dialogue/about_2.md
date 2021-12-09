@@ -4,4 +4,4 @@ G: This was the artifact for an Interact Circle on Hackathon Culture + Play. We 
 
 You: And who is ‘we’ exactly?
 
-G: [Jacky Zhao](https://twitter.com/_jzhao), [Justin Glibert](https://twitter.com/justinglibert), [Joel Gustafson](https://twitter.com/gustafjt), and [Becky Button](https://twitter.com/einsteinunicorn). You can find the source code for this project here. Now, let’s talk about play, shall we?
+G: [Jacky Zhao](https://twitter.com/_jzhao), [Justin Glibert](https://twitter.com/justinglibert), [Joel Gustafson](https://twitter.com/gustafjt), and [Becky Button](https://twitter.com/einsteinunicorn). You can find the source code for this project [here](https://github.com/jackyzha0/play). Now, let’s talk about play, shall we?
