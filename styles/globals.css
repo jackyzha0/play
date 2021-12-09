@@ -2,38 +2,37 @@
   --bg: #121417;
   --text: #fcfdff;
   --highlight: #5196f055;
+  --highlight-hover: #5196f0cc;
 }
 
 html,
 body {
   padding: 0;
-  margin: 0;
+  margin: 5vh 0;
   background-color: var(--bg);
   color: var(--text);
 }
 
-p, span, a, code, pre, h1, h2, h3, h4, footer {
+p, span, a, code, pre, h1, h2, h3, h4, footer, li::marker {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 1.25rem;
   line-height: 1.25em;
 }
 
-a {
+a, a > sup {
   color: inherit;
   background-color: var(--highlight);
   padding: 0 0.2em;
-  border-radius: 3px;
   text-decoration: none;
+  transition: 1s ease background-color;
+}
+
+a:hover, a:hover > sup {
+  background-color: var(--highlight-hover);
 }
 
 a[href^="#"] {
   background-color: transparent;
-}
-
-a[href^="#"] > sup {
-  background-color: var(--highlight);
-  padding: 0 0.2em;
-  border-radius: 3px;
 }
 
 * {
@@ -49,13 +48,13 @@ a[href^="#"] > sup {
 .main-body {
   text-align: left;
   width: 50vw;
-  margin: 10vh 25vw;
+  margin: 0 25vw;
 }
 
 @media all and (max-width: 1200px) {
   .main-body {
     width: 90vw;
-    margin: 10vh 5vw;
+    margin: 0 5vw;
   }
 }
 
@@ -113,10 +112,13 @@ hr:after {
 
 .footer * {
   font-size: 1.3rem;
-  border-radius: 0;
   background-color: transparent;
 }
 
 .footer p {
   opacity: 0.5;
+}
+
+.main-index > ol {
+  margin-left: 3em;
 }
