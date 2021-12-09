@@ -10,9 +10,9 @@ P: Try sitting down for a couple hours and counting from 0 to infinity. Do you f
 
 S: I don’t think that’s what Descartes means. Descartes' statement is about doubt. Specifically, thinking about one’s lack of existence is already proof of one’s existence. “We cannot doubt our existence while we doubt”. 
 
-P: Let me expand on this: surprise, or some sort of non-determinism, is what makes us feel alive. Any sequence of events your mind can predict feels like the opposite ofadventure, love, or whatever you want to call this feeling of vivid existence.
+P: Let me expand on this: surprise, or some sort of non-determinism, is what makes us feel alive. Any sequence of events your mind can predict feels like the opposite of adventure, love, or whatever you want to call this feeling of vivid existence.
 
-S: Watching a noisy TV — a pattern you can’t predict — doesn’t feel very entertaining nor adventurous.
+S: Watching a noisy TV — a pattern you can’t predict — doesn't feel very entertaining nor adventurous.
 
 P: My definition of surprise is closer to Kolmogorov Complexity. If it is a “cheap” surprise like a random pattern — whose internal process I can conceive — I am not satisfied. If we are talking about a novel, a first date, or a really long afternoon with my dog, the process behind those events is so complex, so high in terms of Kolmogorov Complexity, that the surprise satisfies me. 
 
@@ -20,7 +20,7 @@ Theme parks never feel as good as road trips with friends and plenty of unplanne
 
 S: I can believe that. Still, you haven’t explained why Play matters in this context.
 
-P: I define playing as interacting with the state of the universe around me with the intent of generating surprise. I want maximum novelty. Feelings of being alive. Of being confronted with the real stuff. Hell, even death will do. Isn’t death the biggest surprise?
+P: I define playing as interacting with the state of the universe around me with the intent of generating surprise. I want maximum novelty. Feelings of being alive. Of being confronted with the real stuff. Hell, even death will do. Isn't death the biggest surprise?
 
 S: You are mad.
 
@@ -28,7 +28,7 @@ P: Think about it. Humans attempt to understand systems. Society, Nature, Others
 
 S: For the sake of continuing this conversation, I will restrain from telling you to fuck off. 
 
-Surprise, I get it. Systems being dead when fully understood, I can see where you are getting this from. But Play? Isn’t Play about winning? About the lack of surprise actually! A master player comes to sit at the table and knows ahead of time they will win. Isn’t that the complete absence of surprise?
+Surprise, I get it. Systems being dead when fully understood, I can see where you are getting this from. But Play? Isn't Play about winning? About the lack of surprise actually! A master player comes to sit at the table and knows ahead of time they will win. Isn't that the complete absence of surprise?
 
 P: That’s finite Play. A cheap version of it. It’s almost like comparing taking heroin and playing with puppies. What I mean by Play is ~Infinite Play~.
 
@@ -47,3 +47,4 @@ P: I do. But when I do, I focus on the intention of maintaining the Play in the 
 S: Right. So it’s all about not really caring then?
 
 P: Caring about one thing: being surprised. And it is even better if you get surprised together. 
+
