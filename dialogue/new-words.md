@@ -4,7 +4,7 @@ W: Ah, a question much asked throughout much of history.
 
 P: Well no one seems to have a good answer at least. Don't we have enough words to express all we want to express already? There are innumerable ways to combine the words we already do have.
 
-W: The whole point of language is to have shared mental models to enable us to communicate complex ideas more easily. There is a form of epistemic injustice known as hermeneutical injustice where one has no labels or common [terminology](thoughts/terminology.md) to describe or explain experiences to others. Clearly, there are not enough words to express the human experience.
+W: The whole point of language is to have shared mental models to enable us to communicate complex ideas more easily. There is a form of epistemic injustice known as hermeneutical injustice where one has no labels or common [terminology](https://jzhao.xyz/thoughts/terminology) to describe or explain experiences to others. Clearly, there are not enough words to express the human experience.
 
 P: Okay, I admit that new words are useful. But who is to say what each wor means? Who is to say that the word 'apple' even refers to the fruit I just ate, or that 'metaverse' is even a real word?
 
@@ -24,7 +24,7 @@ W: I concede that you have a good point. However, we can take a leaf out of Karl
 
 P: Wait... lying is categorically bad is it not?
 
-W: Hold on and let me finish my thought. According to Pratchett[^2], "a lie-to-children is a statement that is false, but which nevertheless leads the child's mind towards a more accurate explanation." I think what I'm trying to get at is this concept of [verisimilitude](https://en.wikipedia.org/wiki/Verisimilitude): that there is no binary true or false, [some propositions are more true](thoughts/truth.md) than others, especially in context.
+W: Hold on and let me finish my thought. According to Pratchett[^2], "a lie-to-children is a statement that is false, but which nevertheless leads the child's mind towards a more accurate explanation." I think what I'm trying to get at is this concept of [verisimilitude](https://en.wikipedia.org/wiki/Verisimilitude): that there is no binary true or false, [some propositions are more true](https://jzhao.xyz/thoughts/truth) than others, especially in context.
 
 P: Okay, I accept that taking a toy-model approach to new terminology makes sense. But I still don't understand why we couldn't just have a single definition for each word in this model.
 
@@ -34,9 +34,9 @@ Of course, this is not to say that definitions are not important. In fact, quite
 
 P: Isn't this exactly *why* we need centralization? This is like Plato's Ship of State[^4]. Any large vessel by their very nature needs to be steered firmly. Those aboard must yield to their captain's commands; no reasonable person believes that a ship can be run democratically.
 
-W: Would sailors want to obey a captain who takes them somewhere they don't want to be? No. I imagine language like multiple small ships, each one with its own crew (crew of course, meaning an agreed meaning for a set of definitions). Let me reiterate without the ship metaphor: language requires **localized** [consensus](thoughts/consensus.md) for it to function.
+W: Would sailors want to obey a captain who takes them somewhere they don't want to be? No. I imagine language like multiple small ships, each one with its own crew (crew of course, meaning an agreed meaning for a set of definitions). Let me reiterate without the ship metaphor: language requires **localized** [consensus](https://jzhao.xyz/thoughts/consensus) for it to function.
 
-P: Ah, now I see that you don't mean complete [decentralization](thoughts/decentralization.md), that makes a lot more sense. I can agree on this. I am, however, curious about how local agreement should propagate to become widely accepted. After all, almost all English speakers can agree and what an 'apple' refers to, yet nobody seems to have a good definition for relatively newer terminology like the 'metaverse'.
+P: Ah, now I see that you don't mean complete [decentralization](https://jzhao.xyz/thoughts/decentralization), that makes a lot more sense. I can agree on this. I am, however, curious about how local agreement should propagate to become widely accepted. After all, almost all English speakers can agree and what an 'apple' refers to, yet nobody seems to have a good definition for relatively newer terminology like the 'metaverse'.
 
 W: This is an interesting question to think about. Not only do we need to think about spatial locality, but also temporal locality as well. I'd like to think about this in terms of metallurgical annealing if you'd let me.
 
@@ -83,7 +83,7 @@ P: What sort of alternative are you proposing?
 
 W: A collectively curated glossary of sorts. One which involves a rich history and context of terms, pluralist in nature, and always ongoing. If meaning is a negotiation, then the history of that negotiation needs to be a crucial part of achieving consensus on the meaning.
 
-Let us create a new glossary of terminology. May it be *a* source of [truth](thoughts/truth.md) rather than *the* source of truth.
+Let us create a new glossary of terminology. May it be *a* source of [truth](https://jzhao.xyz/thoughts/truth.md) rather than *the* source of truth.
 
 ---
 
