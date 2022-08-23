@@ -13,6 +13,7 @@ export default function Home() {
         <li><Link href="/life-of-a-player"><a>On novelty and surprise</a></Link></li>
         <li><Link href="/lusory-attitude"><a>On intrinsic motivation and the lusory attitude</a></Link></li>
         <li><Link href="/play-to-win"><a>On playing in a post-work society</a></Link></li>
+        <li><Link href="/local-abundance"><a>On playing and flowing</a></Link></li>
       </ol>
     </div>
     <Page dialogue={pt2} active="G" includeHeader={false} includeFooter={false} />
