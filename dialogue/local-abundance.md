@@ -40,7 +40,7 @@ P: It's a never-ending process. I keep trying to find the balance between commit
 
 S: But still, I have one question left. Since you became like water, have you found seeds to nurture?
 
-P: I’m starting to find them. They were always here, but somehow I was distracted. They say “think globally, act locally”, right? I always believed that but, due to the Internet, we can act globally in a permissionless way. For quite some time, I was looking for places of local abundance. It’s like I was looking for a Schelling Point for all playful actors. We are all unpaid actors in this game of life. Recently, I found out that the Internet is a beautiful Schelling Point for us. It made local abundance a global place. We’re all together in this campfire now! We can play, we can build, we can create, we can discuss ideas. 
+P: I’m starting to find them. They were always here, but somehow I was distracted. They say “think globally, act locally”, right? I always believed that but, due to the Internet, we can act globally in a permissionless way. For quite some time, I was looking for places of local abundance. It’s like I was looking for a [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) for all playful actors. We are all unpaid actors in this game of life. Recently, I found out that the Internet is a beautiful Schelling Point for us. It made local abundance a global place. We’re all together in this campfire now! We can play, we can build, we can create, we can discuss ideas. 
 
 It’s a great time for people who have chosen intellectual honesty over ego. Another counterintuitive thing is that, since I want to be like water, people assume that I don’t want to have an impact. That’s just wrong. 
 
