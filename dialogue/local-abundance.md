@@ -34,6 +34,10 @@ S: I agree with you, ego is the worst thing we can have. However, you mentioned 
 
 P: I see my life more like dirt, as opposed to a blossoming garden. Dirt gives you the opportunity to grow new things, it makes room for surprises. I’m more interested in the process than in the outcome. That’s why my name is Play.
 
+S: So... you want to be useful? Doesn't growth require persistence and attachment? I thought you were flowing, like water. Detach a plant from its dirt and it will quickly die.
+
+P: It's a never-ending process. I keep trying to find the balance between commitment and non-attachment; that's the reason why you said you heard some fatigue in my voice. Finding this balance is not always an easy task, especially when you care.
+
 S: But still, I have one question left. Since you became like water, have you found seeds to nurture?
 
 P: I’m starting to find them. They were always here, but somehow I was distracted. They say “think globally, act locally”, right? I always believed that but, due to the Internet, we can act globally in a permissionless way. For quite some time, I was looking for places of local abundance. It’s like I was looking for a Schelling Point for all playful actors. We are all unpaid actors in this game of life. Recently, I found out that the Internet is a beautiful Schelling Point for us. It made local abundance a global place. We’re all together in this campfire now! We can play, we can build, we can create, we can discuss ideas. 
