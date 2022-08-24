@@ -14,6 +14,10 @@ S: Water?
 
 P: Yes, water. There’s something about water that makes it so special and unique. It’s hard to describe it with words – it’s more of a feeling, you know? Our [terminology](https://jzhao.xyz/thoughts/terminology/) isn’t quite there yet. Nevertheless, I’ll explain to you why water is something so close to my heart. Growing up, I used to take myself very seriously. It was definitely not fun and lasted for a couple of years. My mom eventually took me to this psychologist who diagnosed me with something called “atelophobia”. What do psychologists know about life anyway? I’ve had to figure out on my own how to get out of that bubble.
 
+S: What's "atelophobia"?
+
+P: I would describe it as the fear of not being perfect. It's similar to being a perfectionist, but people who have this condition are so afraid of failing that they end up not even trying. Living in fear, can you imagine?
+
 S: What did you do?
 
 P: I became like water.
